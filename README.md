@@ -1,4 +1,13 @@
-# React + Vite
+# CHATBOT- React + Vite
+## Made by using gemini API and React.js
+
+## Technologies
+- React
+- Tailwind CSS
+- APIs
+- Vite
+  
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
